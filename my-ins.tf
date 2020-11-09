@@ -1,6 +1,6 @@
 provider "aws"{
-access_key="AKIAJ2MGMRLK5BKFWDUA"
-secret_key="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"
+access_key="#id"
+secret_key="#id"
 region="us-east-2"
 }
 resource "aws_instance" "web_server"{
